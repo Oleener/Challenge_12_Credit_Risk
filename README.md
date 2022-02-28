@@ -55,6 +55,7 @@ Jupyter Lab
 ```
 
 Jupyter lab should launch in a web browser, if it doesnt select one one of the hyperlinks it provides copy it and paste it into a web browser page.  
+
 ---
 
 ## Contributor
