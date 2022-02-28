@@ -53,6 +53,7 @@ To analyze the credit risk, clone the repository and run **Jupyter Lab** in pyth
 ```python
 Jupyter Lab
 ```
+
 Jupyter lab should launch in a web browser, if it doesnt select one one of the hyperlinks it provides copy it and paste it into a web browser page.  
 ---
 
