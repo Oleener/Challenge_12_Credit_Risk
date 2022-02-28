@@ -13,6 +13,7 @@ Model Process
 ## Results
 
 Original Data Model 
+
 Below are the logistic regression model predictions, trained with the original unbalanced data: 
 
 * ```0 - recall was .99 with a precision of 1```
@@ -23,6 +24,7 @@ Classification Report Original
 ![original](https://github.com/Oleener/Challenge_12_Credit_Risk/blob/main/Images/Original%20.png)
 
 RandomOverSampler Data Model
+
 Below are the logistic regression model predictions, trained with the resampled data: 
 
 * ```0 - recall was .99 with a precision of 1```
